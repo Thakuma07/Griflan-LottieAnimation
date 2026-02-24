@@ -8,7 +8,7 @@
 
 ## 📽️ Visual Experience
 
-<img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/0fbaa414-9216-4605-99bd-531e12ca6542" />
+<img width="1920" height="1080" alt="Screenshot (346)" src="https://github.com/user-attachments/assets/5da9e8ea-bc42-4176-b50c-15562164492c" />
 
 ---
 
